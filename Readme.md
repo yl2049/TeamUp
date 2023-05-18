@@ -5,7 +5,11 @@ TeamUp is a web platform for students to easily form teams for course projects. 
 With four modules - User, Course, Team, and Post - instructors can randomly assign students to groups or allow them to form their own. Students can view their teams and their members' contact information, submit team information by entering their teammates' usernames or email, and post announcements to find teammates or join existing teams. Instructors can easily view and download all teams' information.
 
 ## Demo
+https://youtu.be/fKFQMmGVtVM
+
 https://youtu.be/hAPHnsh3-tE
+
+
 
 ## Code Contribution
 
